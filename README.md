@@ -16,4 +16,19 @@ Node.js is an environment that can run JavaScript code outside of a web browser.
 
 ## Install Git
 
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. When you install a Gatsby “starter” site, Gatsby uses Git behind the scenes to download and install the required files for your starter. You will need to have Git installed to set up your first Gatsby site.
+## Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. 
+When you install a Gatsby “starter” site, Gatsby uses Git behind the scenes to download and install the required files for your starter. You will need to have Git installed to set up your first Gatsby site.
+## Git for Mac Installer
+The easiest way to install Git on a Mac is via the stand-alone installer:
+
+## Download the latest Git for Mac installer.
+Follow the prompts to install Git.
+Open a terminal and verify the installation was successful by typing git --version:
+
+ 
+$ git --version git version 2.9.2
+Configure your Git username and email using the following commands, replacing Emma's name with your own. These details will be associated with any commits that you create:
+
+ 
+$ git config --global user.name "Emma Paris" $ git config --global user.email "eparis@atlassian.com"
+(Optional) To make Git remember your username and password when working with HTTPS repositories, configure the git-credential-osxkeychain helper.
