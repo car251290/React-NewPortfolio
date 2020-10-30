@@ -1,9 +1,11 @@
 # React-NewPortfolio
 I will use Gatby.js to create a new portfolio
+To show my projects, I will step and step what I stole for make Gastby.js 
 
-The documentation to use this Application for my portfolio
+The documentation to use this Application for my portfolio and telling my skills of developers 
 
-Gatsby API Reference
+
+## Gatsby API Reference 
 
 Learn more about Gatsby API methods and options, common files, and customizations.
 
