@@ -1,10 +1,10 @@
 # React-NewPortfolio
 I will use Gatby.js to create a new portfolio
 with new futures and it will be using JavaScript.
-To show my projects, I will step and step what I stole for make Gastby.js it is a very friendly.
-envarioment to make the portfolio
+To show my projects, I will step and step what make Gastby.js it is a very friendly.
+envarioment to make the portfolio and it has a very good designs for use it.
 
-The documentation to use this Application for my portfolio and telling my skills of developers 
+The documentation to use this Application for my portfolio and telling my skills of developers and I will use it for show my projectas talk about me and show my future companies I am developer learning and making new projects.
 
 
 ## Gatsby API Reference 
