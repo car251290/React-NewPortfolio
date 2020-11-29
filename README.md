@@ -74,10 +74,6 @@ This project is my entry to Adobe's #ChallengeYourPerspective contest.
 
 The `static` folder contains the icons, social media images and robots.txt. Don't forget to change these files, too!
 
-## 🤔 Questions or problems?
-
-Please open up an issue on the main repository: [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes). Thanks!
-
 ## 🎓 Learning Gatsby
 
 Looking for more guidance? Full documentation for Gatsby lives [on Gatsby's website](https://www.gatsbyjs.org/).
@@ -89,6 +85,4 @@ Looking for more guidance? Full documentation for Gatsby lives [on Gatsby's webs
 ### General
 
 - **For most developers, I recommend starting with the [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
-
-- **To dive straight into code samples, head [to Gatsby's documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Reference Guides_ and _Gatsby API_ sections in the sidebar.
 
