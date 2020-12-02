@@ -74,10 +74,6 @@ This project is my entry to Adobe's #ChallengeYourPerspective contest.
 
 The `static` folder contains the icons, social media images and robots.txt. Don't forget to change these files, too!
 
-## 🎓 Learning Gatsby
-
-Looking for more guidance? Full documentation for Gatsby lives [on Gatsby's website](https://www.gatsbyjs.org/).
-
 ### Themes
 
 - To learn more about Gatsby themes specifically, we recommend checking out the [theme docs](https://www.gatsbyjs.org/docs/themes/).
