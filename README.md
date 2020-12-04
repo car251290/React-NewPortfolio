@@ -71,11 +71,6 @@ You have to use the `<ProjectCard />` component inside `projects.mdx` to display
   bg="linear-gradient(to right, #1b6b96  0%, #FBB03B 100%)"
 >
 ```
-
-### Change your `static` folder
-
-The `static` folder contains the icons, social media images and robots.txt. Don't forget to change these files, too!
-
 ### General
 - **For most developers, I recommend starting with the [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
 
