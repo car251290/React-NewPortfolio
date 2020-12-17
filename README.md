@@ -50,6 +50,14 @@ cd project-name
 gatsby develop
 ```
 
+# Editing the content
+
+The content of the page is managed by .mdx files inside the theme's sections folder. You can edit the files by shadowing them in your site.
+
+These files are available: intro.mdx, projects.mdx, about.mdx, contact.mdx
+
+See the example that shadows via src/@lekoarts/gatsby-theme-cara/sections/intro.mdx:
+
 3. **Open the code and start customizing!**
 
 Your site is now running at `http://localhost:8000`!
