@@ -82,3 +82,8 @@ You have to use the `<ProjectCard />` component inside `projects.mdx` to display
 ### General
 - **For most developers, I recommend starting with the [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
 
+🌟 Supporting me
+
+Thanks for using this project! I'm always interested in seeing what people do with my projects, so don't hesitate to tag me on Twitter and share the project with me.
+
+Please star this project, share it on Social Media or consider supporting me on Patreon or GitHub Sponsor!
