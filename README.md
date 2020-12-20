@@ -78,6 +78,15 @@ You have to use the `<ProjectCard />` component inside `projects.mdx` to display
   link="https://github.com/car251290/myMemories"
   bg="linear-gradient(to right, #1b6b96  0%, #FBB03B 100%)"
 >
+
+<ProjectCard
+  title="Template Chooser"
+  link="https://github.com/car251290/Template-Chooser"
+  bg="linear-gradient(to right, #1b6b96  0%, #FBB03B 100%)"
+>
+ Web Application build with JavaScript to get a Templates stored in Sharepoint and display
+  it and inserted to a Word document.
+</ProjectCard>
 ```
 ### General
 - **For most developers, I recommend starting with the [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
