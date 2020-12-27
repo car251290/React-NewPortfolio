@@ -91,3 +91,8 @@ You have to use the `<ProjectCard />` component inside `projects.mdx` to display
 ### 🌟 General
 - **For most developers, I recommend starting with the [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
 
+### Netlify DNS
+Add a domain
+You can add a domain to Netlify DNS by registering a new domain or by delegating an existing domain from another registrar.
+
+
