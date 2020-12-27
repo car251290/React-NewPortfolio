@@ -95,4 +95,17 @@ You have to use the `<ProjectCard />` component inside `projects.mdx` to display
 Add a domain
 You can add a domain to Netlify DNS by registering a new domain or by delegating an existing domain from another registrar.
 
+Register a new domain
+To learn how to register a new domain, visit the domain registration page.
+
+# Add a domain you own
+To add a domain you have already registered elsewhere:
+
+Go to your team’s Domains page and select Add or register domain.
+Enter the domain you wish to add and select Verify.
+You will be asked to confirm that you are the owner of the domain. Select Yes, add domain to create a Netlify DNS zone for the domain.
+You will be given the option to add DNS records, followed by instructions to delegate your domain to Netlify.
+
+
+
 
