@@ -98,6 +98,15 @@ You can add a domain to Netlify DNS by registering a new domain or by delegating
 Register a new domain
 To learn how to register a new domain, visit the domain registration page.
 
+Collect form submissions
+Netlify supports automatic collection of form submissions for any HTML form on your site, with no database required. Trigger an email, slack notification, or webhook with each form submission.
+
+## Portfolio link : 
+https://jc-man-567165.netlify.app
+
+## Icon for my page
+there is process I will design my icon.
+
 # Add a domain you own
 To add a domain you have already registered elsewhere:
 
