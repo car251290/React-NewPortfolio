@@ -106,6 +106,7 @@ https://jc-man-567165.netlify.app
 
 ## Icon for my page
 there is process I will design my icon.
+and to publish my icon: https://www.favicon-generator.org
 
 # Add a domain you own
 To add a domain you have already registered elsewhere:
