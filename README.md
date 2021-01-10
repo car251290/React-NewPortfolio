@@ -95,6 +95,12 @@ You have to use the `<ProjectCard />` component inside `projects.mdx` to display
 Add a domain
 You can add a domain to Netlify DNS by registering a new domain or by delegating an existing domain from another registrar.
 
+At Netlify  React in production and are familiar with the challenges in deploying it to production as well. 
+
+## Powerful Netlify
+
+Today Facebook announced their opinated boiler-plate for getting React projects started. This is great news, since the ecosystem around getting React projects started has been in a state of Flux (see what I did there?).
+
 Register a new domain
 To learn how to register a new domain, visit the domain registration page.
 
