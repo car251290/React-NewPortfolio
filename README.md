@@ -19,15 +19,9 @@
 
 Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Using the Gatsby Theme [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara).
 
-[**Demo Website**](https://cara.lekoarts.de)
+## Portfolio link : 
+https://jc-man-567165.netlify.app
 
-Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de)
-
-## ✨ Features
-
-- Theme UI-based theming
-- react-spring parallax effect
-- CSS Animations on Shapes
 
 ## 🚀 Getting Started
 
@@ -106,9 +100,6 @@ To learn how to register a new domain, visit the domain registration page.
 
 Collect form submissions
 Netlify supports automatic collection of form submissions for any HTML form on your site, with no database required. Trigger an email, slack notification, or webhook with each form submission.
-
-## Portfolio link : 
-https://jc-man-567165.netlify.app
 
 ## Icon for my page
 there is process I will design my icon.
