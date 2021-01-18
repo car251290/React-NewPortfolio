@@ -83,14 +83,14 @@ You can add a domain to Netlify DNS by registering a new domain or by delegating
 
 At Netlify  React in production and are familiar with the challenges in deploying it to production as well. 
 
-## Powerful Netlify
+## Poweful Netlify
 
 Today Facebook announced their opinated boiler-plate for getting React projects started. This is great news, since the ecosystem around getting React projects started has been in a state of Flux (see what I did there?).
 
 Register a new domain
 To learn how to register a new domain, visit the domain registration page.
 
-Collect form submissions
+# Collect form submissions
 Netlify supports automatic collection of form submissions for any HTML form on your site, with no database required. Trigger an email, slack notification, or webhook with each form submission.
 
 ## Icon for my page
@@ -105,6 +105,9 @@ Enter the domain you wish to add and select Verify.
 You will be asked to confirm that you are the owner of the domain. Select Yes, add domain to create a Netlify DNS zone for the domain.
 You will be given the option to add DNS records, followed by instructions to delegate your domain to Netlify.
 
+## Conclusion 
+
+This is a powerful tool and so helpful to make Web pages, I love the template of my portfolio and the easy to use.
 
 
 
