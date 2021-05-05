@@ -38,11 +38,6 @@ gatsby new project-name https://github.com/LekoArts/gatsby-starter-portfolio-car
 
 Navigate into your new site's directory and start it up.
 
-```sh
-cd project-name
-gatsby develop
-```
-
 # Editing the content
 
 The content of the page is managed by .mdx files inside the theme's sections folder. You can edit the files by shadowing them in your site.
@@ -96,15 +91,6 @@ Netlify supports automatic collection of form submissions for any HTML form on y
 ## Icon for my page
 there is process I will design my icon.
 and to publish my icon: https://www.favicon-generator.org
-
-# Add a domain you own
-To add a domain you have already registered elsewhere:
-
-Go to your team’s Domains page and select Add or register domain.
-Enter the domain you wish to add and select Verify.
-You will be asked to confirm that you are the owner of the domain. Select Yes, add domain to create a Netlify DNS zone for the domain.
-You will be given the option to add DNS records, followed by instructions to delegate your domain to Netlify.
-
 ## Conclusion 
 
 This is a powerful tool and so helpful to make Web pages, I love the template of my portfolio and the easy to use.
