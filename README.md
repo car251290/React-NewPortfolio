@@ -1,13 +1,11 @@
 
-
+# Portfolio link : 
+https://jc-developer-403d0e.netlify.app
 
 
  
 
 Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Using the Gatsby Theme [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara).
-
-# Portfolio link : 
-https://jc-man-567165.netlify.app
 
 
 1. **Create a Gatsby site.**
@@ -67,13 +65,6 @@ To learn how to register a new domain, visit the domain registration page.
 
 # Collect form submissions
 Netlify supports automatic collection of form submissions for any HTML form on your site, with no database required. Trigger an email, slack notification, or webhook with each form submission.
-
-## Icon for my page
-there is process I will design my icon.
-and to publish my icon: https://www.favicon-generator.org
-## Conclusion 
-
-This is a powerful tool and so helpful to make Web pages, I love the template of my portfolio and the easy to use.
 
 
 
