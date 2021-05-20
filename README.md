@@ -6,20 +6,13 @@
 
 Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Using the Gatsby Theme [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara).
 
-## Portfolio link : 
+# Portfolio link : 
 https://jc-man-567165.netlify.app
 
-## 🚀 Getting Started
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/LekoArts/gatsby-starter-portfolio-cara) [![Edit gatsby-starter-portfolio-cara](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/LekoArts/gatsby-starter-portfolio-cara/tree/master/)
 
 1. **Create a Gatsby site.**
 
 Use the Gatsby CLI to create a new site, specifying this project
-
-```sh
-gatsby new project-name https://github.com/LekoArts/gatsby-starter-portfolio-cara
-```
 
 2. **Start developing.**
 
