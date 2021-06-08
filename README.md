@@ -2,12 +2,6 @@
 ### Portfolio link : 
 https://jc-developer-403d0e.netlify.app
 
-
- 
-
-Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Using the Gatsby Theme [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara).
-
-
 1. ## Create a Gatsby site.**
 
 Use the Gatsby CLI to create a new site, specifying this project
