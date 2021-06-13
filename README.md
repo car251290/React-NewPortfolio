@@ -44,11 +44,4 @@ You have to use the `<ProjectCard />` component inside `projects.mdx` to display
 ### Netlify DNS
 Add a domain
 You can add a domain to Netlify DNS by registering a new domain or by delegating an existing domain from another registrar.
-
 At Netlify  React in production and are familiar with the challenges in deploying it to production as well. 
-
-# Collect form submissions
-Netlify supports automatic collection of form submissions for any HTML form on your site, with no database required. Trigger an email, slack notification, or webhook with each form submission.
-
-
-
