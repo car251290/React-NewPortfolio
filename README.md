@@ -10,7 +10,7 @@ Use the Gatsby CLI to create a new site, specifying this project
 
 Navigate into your new site's directory and start it up.
 
-### Editing the content
+## Editing the content
 
 The content of the page is managed by .mdx files inside the theme's sections folder. You can edit the files by shadowing them in your site.
 
@@ -41,7 +41,7 @@ You have to use the `<ProjectCard />` component inside `projects.mdx` to display
   it and inserted to a Word document.
 </ProjectCard>
 ```
-### Netlify DNS
+## Netlify DNS
 Add a domain
 You can add a domain to Netlify DNS by registering a new domain or by delegating an existing domain from another registrar.
 At Netlify  React in production and are familiar with the challenges in deploying it to production as well. 
