@@ -40,6 +40,6 @@ The content of this project is defined in four `.mdx` files inside the theme's `
 </ProjectCard>
 ```
 ## Netlify DNS
-Add a domain
+## Add a domain
 You can add a domain to Netlify DNS by registering a new domain or by delegating an existing domain from another registrar.
 At Netlify  React in production and are familiar with the challenges in deploying it to production as well. 
