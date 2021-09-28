@@ -2,13 +2,11 @@
 ### Portfolio link : 
 https://jc-developer-403d0e.netlify.app
 
-1. ## Create a Gatsby site.
+## Two great project for my portfolio. 
+https://frosty-kepler-18bcee.netlify.app/
 
-Use the Gatsby CLI to create a new site, specifying this project
+https://reverent-spence-582593.netlify.app/
 
-2. ## Start developing.
-
-Navigate into your new site's directory and start it up.
 
 ## Editing the content
 
