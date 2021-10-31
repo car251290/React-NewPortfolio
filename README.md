@@ -7,15 +7,6 @@ https://frosty-kepler-18bcee.netlify.app/
 
 https://reverent-spence-582593.netlify.app/
 
-
-## Editing the content
-
-The content of the page is managed by .mdx files inside the theme's sections folder. You can edit the files by shadowing them in your site.
-
-These files are available: intro.mdx, projects.mdx, about.mdx, contact.mdx
-
-See the example that shadows via src/@lekoarts/gatsby-theme-cara/sections/intro.mdx:
-
 ## Changing content
 
 The content of this project is defined in four `.mdx` files inside the theme's `sections` folder. You can override the files `intro.mdx`, `projects.mdx`, `about.mdx` and `contact.mdx`. This starter has overriden the `intro.mdx` file as an example. Place the other files in the same `src/@lekoarts/gatsby-theme-cara/sections/` folder.
