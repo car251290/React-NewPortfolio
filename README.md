@@ -2,10 +2,12 @@
 ### Portfolio link : 
 https://jc-developer-403d0e.netlify.app
 
-## Two great projects included on my new portfolio. 
+## 3 great projects included on my new portfolio. 
 https://frosty-kepler-18bcee.netlify.app/
 
 https://reverent-spence-582593.netlify.app/
+
+Memory project coming soon
 
 ## Changing content
 
