@@ -3,8 +3,9 @@
 https://jc-developer-403d0e.netlify.app
 
 ## 3 great projects included on my new portfolio. 
+Search for a restaurant or hotel near your location
 https://frosty-kepler-18bcee.netlify.app/
-
+Covid Tracker 
 https://reverent-spence-582593.netlify.app/
 
 Memory project coming soon
