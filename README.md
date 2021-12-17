@@ -7,11 +7,10 @@ Search for a restaurant or hotel near your location
 https://frosty-kepler-18bcee.netlify.app/
 Covid Tracker 
 https://reverent-spence-582593.netlify.app/
-
+## Changing content
 # Memory project coming soon
 # Rent an apartment using React 
-## working in Tyscript envarioment for a better understanding
-## Changing content
+## Working in Tyscript envarioment for a better understanding
 
 ```md
 ## Projects
