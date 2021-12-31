@@ -10,6 +10,7 @@ https://reverent-spence-582593.netlify.app/
 ## Changing content
 # Memory project coming soon
 # Rent an apartment using React 
+using React.js and fetching the API
 ## Working in Tyscript envarioment for a better understanding
 
 ```md
