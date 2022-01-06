@@ -8,7 +8,7 @@ https://frosty-kepler-18bcee.netlify.app/
 Covid Tracker 
 https://reverent-spence-582593.netlify.app/
 # Changing content
-##Memory project coming soon
+## Memory project coming soon
 
 ## Rent an apartment using React and Next.js
 using React.js and fetching the API Next.js: The React Framework
