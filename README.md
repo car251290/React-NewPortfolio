@@ -7,10 +7,13 @@ Search for a restaurant or hotel near your location
 https://frosty-kepler-18bcee.netlify.app/
 Covid Tracker 
 https://reverent-spence-582593.netlify.app/
-## Changing content
-# Memory project coming soon
-# Rent an apartment using React 
-using React.js and fetching the API
+# Changing content
+##Memory project coming soon
+
+## Rent an apartment using React and Next.js
+using React.js and fetching the API Next.js: The React Framework
+Enter Next.js, the React Framework. Next.js provides a solution to all of the above problems
+
 ## Working in Tyscript envarioment for a better understanding
 
 ```md
